@@ -73,7 +73,7 @@ public final class AppData {
     }
 
     public  String getTwitchID(){
-        return "Deep";
+        return "TWITCH_CLIENT_ID";
 
     }
 
